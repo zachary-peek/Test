@@ -2,7 +2,7 @@ This knowledgebase is used to support the transfer of information from the Appli
 
 * [Application Security Overview and Process](https://github.com/zachary-peek/KB-Mockup/wiki/Application-Security-Overview-and-Process)
 * [Software Installation and Troubleshooting](https://github.com/zachary-peek/KB-Mockup/wiki/Software-Installation-and-Troubleshooting)
-* Code Remediation Guides
+* [Code Remediation Guides](https://github.com/zachary-peek/KB-Mockup/wiki/Code-Remediation-Guides)
 
 
 Please pass along any questions or content suggestions to our slack channel #cs-appsec
