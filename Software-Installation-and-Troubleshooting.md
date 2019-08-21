@@ -1,5 +1,5 @@
 Landing page for Software Installation and Troubleshooting
 
-* DAST
-* SAST
+* [DAST](https://github.com/zachary-peek/KB-Mockup/wiki/DAST)
+* [SAST](https://github.com/zachary-peek/KB-Mockup/wiki/SAST)
 * Third Party Libraries
