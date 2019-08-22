@@ -1,4 +1,4 @@
-Application Security KnowledgeBase
+Application Security Knowledge Base
 
 This knowledgebase is used to support the transfer of information from the Application Security team to application development teams. The file structure is broken down into the following format:
 
