@@ -1,1 +1,1 @@
-[Home](https://github.com/zachary-peek/KB-Mockup/wiki)
+[Home](https://github.com/zachary-peek/KB-Mockup/wiki/Application-Security-Knowledge-Base)
