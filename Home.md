@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>https://github.com/zachary-peek/KB-Mockup/wiki/Home</title>
-    <meta http-equiv="refresh" content="0;URL=https://github.com/zachary-peek/KB-Mockup/wiki/Home">
+    <meta http-equiv="refresh" content="0;URL=https://github.com/zachary-peek/KB-Mockup/wiki/">
   </head>
 
   <body>
